@@ -76,6 +76,9 @@ header>div>img{
 
 
 }
+.bars:active .nav-list{
+    transform: scale(1,1);
+}
 .bars:hover .nav-list{
     transform: scale(1,1);
 }
